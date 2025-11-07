@@ -9,10 +9,10 @@
 [github-link]: https://github.com
 ![替代文本](https://example.com/image.png)
 
--项目一
---项目二
--[x]已完成
--[]未完成
+- 项目一
+-- 项目二
+-[x] 已完成
+-[] 未完成
 >引用
   围栏代码块
 
@@ -20,6 +20,7 @@
   function greet() {
       console.log("Hello World!");
   }
+
 😄:加表情名字
 @HENU-VU
 
