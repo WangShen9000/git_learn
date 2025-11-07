@@ -22,9 +22,4 @@
   }
 ```
 😄:加表情名字
-@HENU-VU
 
-<font color="red">红色文字</font>
-<font color="blue">蓝色文字</font>
-<font color="green">绿色文字</font>
-<font color="purple">紫色文字</font>
